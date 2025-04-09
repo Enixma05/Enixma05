@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fadlullah "Ifad" Hasan and I'm a Informatics Engineering Student at University of Mataram from Indonesia, West Nusa Tenggara.</h2>
+<h2 align="left">Hi 👋! My name is Fadlullah "Ifad" Hasan.</h2>
 
 ###
 
